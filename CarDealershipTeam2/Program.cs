@@ -11,7 +11,6 @@ namespace CarDealershipTeam2
         static void Main(string[] args)
         {
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.BackgroundColor = ConsoleColor.DarkBlue;
             PrintText();
             LoadCars();
             Console.WriteLine("=====================================================");
