@@ -10,3 +10,6 @@
 781,MG,ZS,2021,143,Electric,Automatic,47000,white,False,15500,True,
 999,Mercedes,E Class,2023,444,Gasoline,Automatic,130000,Gray,True,0,True,
 299,Mercedes,E Class,2020,304,Gasoline,Automatic,100000,red,False,19000,True,
+16,Mazda,3,2007,145,Gasoline,Manual,4750,blue,False,220700,False,
+21,Subaru,Impreza,2022,209,Gasoline,Manual,60000,GREY,True,0,True,
+62,Audi,S5,2018,300,Gasoline,Automatic,118000,black,False,150000,False,
