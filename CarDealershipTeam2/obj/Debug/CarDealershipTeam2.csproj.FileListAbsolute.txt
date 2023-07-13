@@ -1,0 +1,16 @@
+D:\visualstd\CarDealershipTeam2\CarDealershipTeam2\obj\Debug\CarDealershipTeam2.csproj.AssemblyReference.cache
+D:\visualstd\CarDealershipTeam2\CarDealershipTeam2\obj\Debug\CarDealershipTeam2.csproj.SuggestedBindingRedirects.cache
+D:\visualstd\CarDealershipTeam2\CarDealershipTeam2\obj\Debug\CarDealershipTeam2.csproj.CoreCompileInputs.cache
+D:\visualstd\CarDealershipTeam2\CarDealershipTeam2\bin\Debug\CarDealershipTeam2.exe.config
+D:\visualstd\CarDealershipTeam2\CarDealershipTeam2\bin\Debug\CarDealershipTeam2.exe
+D:\visualstd\CarDealershipTeam2\CarDealershipTeam2\bin\Debug\CarDealershipTeam2.pdb
+D:\visualstd\CarDealershipTeam2\CarDealershipTeam2\obj\Debug\CarDealershipTeam2.exe
+D:\visualstd\CarDealershipTeam2\CarDealershipTeam2\obj\Debug\CarDealershipTeam2.pdb
+C:\Users\User\Desktop\CarDealershipTeam2\CarDealershipTeam2\bin\Debug\CarDealershipTeam2.exe.config
+C:\Users\User\Desktop\CarDealershipTeam2\CarDealershipTeam2\bin\Debug\CarDealershipTeam2.exe
+C:\Users\User\Desktop\CarDealershipTeam2\CarDealershipTeam2\bin\Debug\CarDealershipTeam2.pdb
+C:\Users\User\Desktop\CarDealershipTeam2\CarDealershipTeam2\obj\Debug\CarDealershipTeam2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CarDealershipTeam2\CarDealershipTeam2\obj\Debug\CarDealershipTeam2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\CarDealershipTeam2\CarDealershipTeam2\obj\Debug\CarDealershipTeam2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CarDealershipTeam2\CarDealershipTeam2\obj\Debug\CarDealershipTeam2.exe
+C:\Users\User\Desktop\CarDealershipTeam2\CarDealershipTeam2\obj\Debug\CarDealershipTeam2.pdb

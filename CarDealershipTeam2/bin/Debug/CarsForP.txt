@@ -1,0 +1,11 @@
+1,BMW,X3,2016,160,Diesel,Automatic,40000,GREY,False,106000,False,
+2,Subaru,Legacy,2022,178,benzine,Manual,50000,GREY,True,0,True,
+3,Nissan,Qashqai,2018,116,Diesel,Automatic,30000,metallic,False,58000,False,Yordan
+7,Volkswagen,Golf VII,2018,400,Automatic,Gasoline,70000,black,False,63500,True,
+5,Volkswagen,Golf IV,2002,75,Manual,Gasoline,3000,blue,False,285000,True,
+4,Hyundai,iX 35,2014,116,Diesel,Manual,21000,Beige,False,128700,True,
+6,Audi,S8,2016,605,Gasoline,Automatic,108000,black,False,155000,False,Kaloqn
+92,Audi,A4,2007,140,Diesel,Manual,7800,red,False,240000,False,
+76,Mazda,MX-30,2020,145,Electric,Automatic,47000,blue,False,22700,False,Shener
+781,MG,ZS,2021,143,Electric,Automatic,47000,white,False,15500,True,
+999,Mercedes,E Class,2023,444,Gasoline,Automatic,130000,Gray,True,0,True,
