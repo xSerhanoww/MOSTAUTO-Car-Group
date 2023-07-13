@@ -215,9 +215,11 @@ namespace CarDealershipTeam2
                         car.Availability = true;
                     }
                 }
+                
                
 
             }
+            reader.Close();
         }
 
         static void SaveCarToFile()
